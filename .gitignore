@@ -115,4 +115,10 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-src/assets/**/*
+src/assets/**/*.png
+src/assets/**/*.jpg
+src/assets/**/*.svg
+src/assets/**/*.pdf
+src/assets/**/*.mp4
+src/assets/**/*.ini
+src/assets/**/*.db
